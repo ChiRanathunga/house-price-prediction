@@ -19,6 +19,4 @@
 - Actual vs Predicted Price Scatter Plot
 
 
-##Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/chiran-sasantha-ranathunga)
 
